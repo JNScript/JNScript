@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JNScript
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Web Design & NextJS
+- 💞️ I’m looking to collaborate on beginner friendly projects
+- 📫 jeffreynti88@gmail.com
